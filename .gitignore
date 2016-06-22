@@ -30,6 +30,12 @@ target/
 # PDT-specific
 .buildpath
 
+#################
+## IDEA
+#################
+.idea/
+*.iml
+
 
 #################
 ## Visual Studio
